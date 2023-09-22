@@ -5,5 +5,8 @@ public class Main {
         System.out.println("--------------------------------------");
         System.out.println("Рузультат задачи 2 (входные данные 1212, 11, 50101, 100089): ");
         Exercise2.resExercise2();
+        System.out.println("--------------------------------------");
+        System.out.println("Рузультат задачи 3 (входные данные 0, 1, 5, 9): ");
+        Exercise3.resExercise3();
     }
 }
