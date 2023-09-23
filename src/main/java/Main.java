@@ -23,6 +23,9 @@ public class Main {
         System.out.println("--------------------------------------");
         System.out.println("Рузультат задачи 7 (входные данные (2, 6), (8, 4), (3, 7), (14, 9)): ");
         Exercise8.resExercise8();
+        System.out.println("--------------------------------------");
+        System.out.println("Рузультат задачи 7 (входные данные (3,3,3), (15,3,3), (3,6,3), (3,3,7)): ");
+        Exercise9.resExercise9();
 
     }
 }
