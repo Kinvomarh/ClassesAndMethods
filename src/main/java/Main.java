@@ -14,5 +14,8 @@ public class Main {
         System.out.println("--------------------------------------");
         System.out.println("Рузультат задачи 5 (входные данные -1, 11, 123, -65): ");
         Exercise5.resExercise();
+        System.out.println("--------------------------------------");
+        System.out.println("Рузультат задачи 6 (входные данные A, Z, F, g, В): ");
+        Exercise6.resExersise6();
     }
 }
