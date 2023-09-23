@@ -27,7 +27,7 @@ public class Main {
         System.out.println("Рузультат задачи 9 (входные данные (3,3,3), (15,3,3), (3,6,3), (3,3,7)): ");
         Exercise9.resExercise9();
         System.out.println("--------------------------------------");
-        System.out.println("Рузультат задачи 10 (входные данные 5, 11, 123, 14, 1): ");
+        System.out.println("Рузультат задачи 10 (входные данные 5, 11, 123, 14, 1):");
 
         System.out.println(Exercise10.lastNumSum(Exercise10.lastNumSum(Exercise10.lastNumSum(Exercise10.lastNumSum(5, 11),123),14),1));
 
