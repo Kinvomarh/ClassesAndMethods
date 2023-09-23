@@ -20,5 +20,9 @@ public class Main {
         System.out.println("--------------------------------------");
         System.out.println("Рузультат задачи 7 (входные данные (7, 15, 9), (123, 15, 77), (77, 15, 9), (7, 1, 8)): ");
         Exercise7.resExercise7();
+        System.out.println("--------------------------------------");
+        System.out.println("Рузультат задачи 7 (входные данные (2, 6), (8, 4), (3, 7), (14, 9)): ");
+        Exercise8.resExercise8();
+
     }
 }
