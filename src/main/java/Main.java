@@ -9,7 +9,10 @@ public class Main {
         System.out.println("Рузультат задачи 3 (входные данные 0, 1, 5, 9): ");
         Exercise3.resExercise3();
         System.out.println("--------------------------------------");
-        System.out.println("Рузультат задачи 3 (входные данные 1, 0, -1, -128): ");
+        System.out.println("Рузультат задачи 4 (входные данные 1, 0, -1, -128): ");
         Exercise4.resExercise4();
+        System.out.println("--------------------------------------");
+        System.out.println("Рузультат задачи 5 (входные данные -1, 11, 123, -65): ");
+        Exercise5.resExercise();
     }
 }
